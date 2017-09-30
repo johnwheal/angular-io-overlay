@@ -1,6 +1,6 @@
 {
-  "name": "angular-io-overlay",
-  "version": "1.2.7",
+  "name": "gh-angular-io-overlay",
+  "version": "1.0.0",
   "description": "Overlay component that allows open a component in popup for angular2",
   "main": "./src/overlay/index.js",
   "typings": "./src/overlay/index.d.ts",
@@ -13,13 +13,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rd-dev-ukraine/angular-io-overlay"
+    "url": "git+https://github.com/johnwheal/angular-io-overlay"
   },
   "bugs": {
-    "url": "https://github.com/rd-dev-ukraine/angular-io-overlay/issues"
+    "url": "https://github.com/johnwheal/angular-io-overlay/issues"
   },
-  "homepage": "https://github.com/rd-dev-ukraine/angular-io-overlay#readme",
-  "author": "Sergey Tokarev <sergey.tokarev@rd-dev.net>",
+  "homepage": "https://github.com/johnwheal/angular-io-overlay#readme",
+  "author": "John Wheal <john@wheal.co.uk>",
   "license": "MIT",
   "scripts": {
     "start": "ng serve",
