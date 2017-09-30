@@ -43,7 +43,7 @@ OverlayComponent = __decorate([
             "[style.top.px]": "top"
         },
         selector: "overlay",
-        template: "<template #container></template>",
+        template: "<ng-template #container></template>",
         styles: [
             "\n        :host {\n          position: absolute;\n          z-index: 100;\n        }\n\n        :host.fixed {\n          position: fixed;\n        }\n        "
         ]

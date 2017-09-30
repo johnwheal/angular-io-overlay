@@ -121,7 +121,7 @@ __decorate([
 OverlayHostComponent = OverlayHostComponent_1 = __decorate([
     core_1.Component({
         selector: "overlay-host",
-        template: "<template #container></template>",
+        template: "<ng-template #container></template>",
         entryComponents: [overlayComponent_1.OverlayComponent]
     }),
     __metadata("design:paramtypes", [overlayService_1.OverlayService,
