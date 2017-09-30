@@ -7,7 +7,7 @@ import { Component, ComponentFactoryResolver, ComponentRef, ElementRef, OnInit, 
         "[style.top.px]": "top"
     },
     selector: "overlay",
-    template: "<ng-template #container></template>",
+    template: "<ng-template #container></ng-template>",
     styles: [
         `
         :host {

@@ -1,6 +1,6 @@
 {
   "name": "gh-angular-io-overlay",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Overlay component that allows open a component in popup for angular2",
   "main": "./src/overlay/index.js",
   "typings": "./src/overlay/index.d.ts",

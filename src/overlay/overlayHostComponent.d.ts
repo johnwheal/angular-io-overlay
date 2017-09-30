@@ -5,7 +5,7 @@ import { Alignment, Rect } from "./positioning";
 
 @Component({
     selector: "overlay-host",
-    template: "<ng-template #container></template>",
+    template: "<ng-template #container></ng-template>",
     entryComponents: [OverlayComponent]
 })
 export declare class OverlayHostComponent implements OverlayHost, OnInit {
